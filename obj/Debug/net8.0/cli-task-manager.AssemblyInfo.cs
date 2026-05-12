@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cli-task-manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e3d4b3f4b0f085edaa7e3b9ba0ef2ba694463a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("cli-task-manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cli-task-manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
